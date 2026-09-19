@@ -30,7 +30,6 @@ modelo
 #data = pd.read_csv("videojuegos-datosFuturos.csv")
 #data.head()
 
-data.info()
 
 #Interfaz gráfica
 # Se crea interfaz
